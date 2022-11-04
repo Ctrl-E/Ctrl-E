@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ctrl-E
 - 👀 I’m interested in everything that make sense
 - 🌱 I’m currently learning phython.
-- 💞️ Current dream is to buy a laptop to learn programming currently learning with my mobile.
 
 <h3>Donations</h3>
 <p>
