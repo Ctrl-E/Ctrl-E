@@ -1,24 +1,28 @@
-<h1 align="center">Hi 👋, I'm Isuru Rathnayaka</h1>
+<h1 align="center">Hi Welcome!👋, I'm Isuru Rathnayaka</h1>
 <h3 align="center">I am a Full Stack Web Developer with a focus on modern web technologies.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ctrl-E&label=Profile%20views&color=0e75b6&style=flat" alt="sheryarshahid" /> </p>
-- 🔭 I’m currently working on
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ctrl-E&label=Profile%20views&color=0e75b6&style=flat" alt="ctrl-e" /> </p>
+- 🔭 I’m an expert with
 JavaScript
 Python     
-Next.js
+Next
+Express
 REACT
+Node
 HTML5
 CSS3
-jQuery        
+jQuery 
+Tailwind Css
+mongoDB
 
+- 🔧 I can assist with debugging complex issues
 
-
-- 👯 I’m looking to collaborate on **BIG PROJECTS**
-
-- 🤝 I’m looking for help with **everything**
-
-- 💬 Ask me about **Logics**
+- 🌐 I'm interested in web and mobile app development
+  
+- 🙌 Also eager to contribute to innovative solutions
+  
+- 🛠️ Ready to build scalable systems ?
 
 - 📫 How to reach me: **https://www.upwork.com/freelancers/~01463058b6c19ebacc?mp_source=share**
 
