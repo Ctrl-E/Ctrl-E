@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/isururathnayaka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/soft-it-land/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/isuru.m.rathnayaka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/softitland/" height="30" width="40" /></a>
+<a href="https://wa.me/+971544794896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="https://www.instagram.com/softitland/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
