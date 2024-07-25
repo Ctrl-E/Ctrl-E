@@ -1,5 +1,5 @@
 <h1 align="center">Hi Welcome!👋, I'm Isuru Rathnayaka</h1>
-<h3 align="center">I am a Full Stack Web Developer with a focus on modern web technologies.</h3>
+<h3 align="center">I am a Full Stack Web Developer Based in UAE. I focus on modern web technologies.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ctrl-E&label=Profile%20views&color=0e75b6&style=flat" alt="ctrl-e" /> </p>
@@ -13,7 +13,7 @@
   
 - 🛠️ Ready to build scalable systems ?
 
-- 📫 How to reach me: **https://www.upwork.com/freelancers/~01463058b6c19ebacc?mp_source=share**
+- 📫 How to reach me: Whatsapp +971-544-794-896
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
